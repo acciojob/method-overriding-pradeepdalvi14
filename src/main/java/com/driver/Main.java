@@ -6,5 +6,6 @@ public class Main {
       String ans1 = obj.meth();
       B obj1 = new B();
       String ans2 = obj1.meth();
+      System.out.println(ans1+" "+ans2);
   }
 }
